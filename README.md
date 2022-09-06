@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @n-tardieu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Nicolas !
+---
+
+- ⚡ I am specialized in front-end development 
+- 🌱 I love to learn new things
+- 🐱‍👤 I collaborate with other developers on Open Source projects
+- 🏃‍♂️ I'm also a runner
+
+Languages and Tools
+--
 
