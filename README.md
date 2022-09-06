@@ -1,4 +1,4 @@
-👋 Hi, I’m Nicolas !
+Hello, I’m Nicolas 👋 
 ---
 
 - ⚡ I am specialized in front-end development 
