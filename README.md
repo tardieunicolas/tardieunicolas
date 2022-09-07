@@ -14,6 +14,9 @@ Languages and Tools
 
 // add github stats
 --
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-tardieu&hide_rank=true&show_icons=true)
+
+
 // add stack overflow stats
 --
 // add most use language
