@@ -33,6 +33,10 @@ GitHub Stats Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-tardieu&layout=Compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+#### 💬 Feedback
+
+Say Hello, I don't bite (much)!
+
 #### 📫 How to reach me
 
 - [Linkedin](https://www.linkedin.com/in/nicolas-tardieu-650107162/)
