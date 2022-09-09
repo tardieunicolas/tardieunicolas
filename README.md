@@ -32,8 +32,6 @@ GitHub Stats Card
 --
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-tardieu&hide_rank=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-tardieu&layout=Compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 #### 💬 Feedback
 
