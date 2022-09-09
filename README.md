@@ -1,7 +1,10 @@
-Hello, I’m Nicolas 👋 
+Hi there 👋 
 ---
 
-- ⚡ I am specialized in front-end development 
+I'm a Front-end Developper
+
+
+- ⚡ Proficient in Javascript development 
 - 🌱 I love to learn new things
 - 👯 I’m looking to collaborate with other content creators
 - 🏃‍♂️ I'm also a runner
