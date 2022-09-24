@@ -29,15 +29,18 @@
 <br/>
 
 
+<!-- 
 GitHub Stats Card
 --
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-tardieu&hide_rank=true&show_icons=true)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-tardieu&hide_rank=true&show_icons=true) 
+-->
 
+<br/>
 
-#### 💬 Feedback
+### 💬 Feedback
 
 Say Hello, I don't bite (much)!
 
-#### 📫 How to reach me
+### 📫 How to reach me
 
 - [Linkedin](https://www.linkedin.com/in/nicolas-tardieu-650107162/)
