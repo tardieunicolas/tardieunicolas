@@ -5,7 +5,7 @@
 
 - ⚡ Proficient in Javascript development 
 - 🌱 I love to learn new things
-- 👯 I’m looking to collaborate with other content creators
+- 👨‍🎓 Currently training for an AWS certification
 - 🏃‍♂️ I'm also a runner
 
 ### Languages and Tools
