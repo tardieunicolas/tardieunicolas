@@ -38,11 +38,3 @@ GitHub Stats Card
 -->
 
 <br/>
-
-### 💬 Feedback
-
-Say Hello, I don't bite (much)!
-
-### 📫 How to reach me
-
-- [Linkedin](https://www.linkedin.com/in/nicolas-tardieu-650107162/)
