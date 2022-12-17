@@ -40,4 +40,6 @@ GitHub Stats Card
 <br/>
 <br/>
 
+<!--
 ![Visitors](https://komarev.com/ghpvc/?username=n-tardieu)
+-->
