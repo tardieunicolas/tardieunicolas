@@ -5,7 +5,7 @@
 
 - ⚡ Proficient in Javascript development 
 - 🌱 I love to learn new things
-- 👨‍🎓 Currently in preparation for Rxjs presentation
+- 👨‍🎓 Currently in preparation for AWS certification
 - 🏃‍♂️ I'm also a runner
 
 ### Languages and Tools
