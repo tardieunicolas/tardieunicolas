@@ -6,6 +6,7 @@
 - ⚡ Proficient in Javascript development 
 - 🌱 I love to learn new things
 - 👨‍🎓 Currently in preparation for AWS certification
+- 🔥 I create free applications, and I hope to contribute to improving our lives 
 - 🏃‍♂️ I'm also a runner
 
 ### Languages and Tools
