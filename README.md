@@ -3,10 +3,9 @@
 
 ## I'm a Front-end Developper
 
-- ⚡ Development Lead in Javascript
+- ⚡ Lead Developer in Javascript
 - 🌱 I love to learn new things
 - 👨‍🎓 Currently in preparation for AWS certification
-- 🔥 I create free applications, and I hope to contribute to improving our lives 
 - 🏃‍♂️ I'm also a runner
 
 ### Languages and Tools
