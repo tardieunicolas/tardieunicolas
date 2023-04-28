@@ -3,7 +3,7 @@
 
 ## I'm a Front-end Developper
 
-- ⚡ Proficient in Javascript development 
+- ⚡ Development Lead in Javascript
 - 🌱 I love to learn new things
 - 👨‍🎓 Currently in preparation for AWS certification
 - 🔥 I create free applications, and I hope to contribute to improving our lives 
