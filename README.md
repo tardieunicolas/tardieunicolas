@@ -41,10 +41,9 @@ I'm a Full-Time Developper, focuses on JavaScript. I seek to improve the world w
 GitHub Stats Card
 --
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-tardieu&hide_rank=true&show_icons=true) 
+<br/>
+<br/>
 -->
-
-<br/>
-<br/>
 
 <!--
 ![Visitors](https://komarev.com/ghpvc/?username=n-tardieu)
