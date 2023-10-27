@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 
-I'm a Full-Time Developper, focuses on JavaScript. I seek to improve the world with quality software.
+I'm a Full-Time Developper, focuses on JavaScript.
 
 - ⚡ Lead Developer on React
 - 🌱 I love to learn new things
