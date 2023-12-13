@@ -3,7 +3,7 @@
 
 I'm a Full-Time Developper, focuses on JavaScript.
 
-- ⚡ Lead Developer on React
+- ⚡ Senior Developer on React
 - 🌱 I love to learn new things
 - 👍 I'm also a runner
   
