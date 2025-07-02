@@ -1,11 +1,14 @@
-### Hi there 👋 
+### Hi there ! 👋 
 
+I'm passionate about simplicity, elegance, and meaningful impact.
 
-I'm a Full-Time Developper, focuses on JavaScript.
+I build useful, accessible, and thoughtfully designed tools — with a bit of an obsession for the little details.
 
-- ⚡ Senior Developer on React
-- 🌱 I love to learn new things
-- 👍 I'm also a runner
+My goal? To make the web (and code) a bit more delightful every day.
+
+<br/>
+
+I'm also a runner 🔥
   
 <!--- 👨‍🎓 Currently in preparation for AWS certification -->
 
