@@ -4,11 +4,7 @@ I'm passionate about simplicity, elegance, and meaningful impact.
 
 I build useful, accessible, and thoughtfully designed tools — with a bit of an obsession for the little details.
 
-My goal? To make the web (and code) a bit more delightful every day.
-
-<br/>
-
-I'm also a runner 🔥
+My goal? To make the web (and code) a bit more delightful every day. Also a runner 🔥
   
 <!--- 👨‍🎓 Currently in preparation for AWS certification -->
 
